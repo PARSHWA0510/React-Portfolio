@@ -1,0 +1,42 @@
+.exp__container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2.5rem;
+}
+
+.exp__item {
+    background: var(--color-bg-variant);
+    padding: 1.3rem;
+    border-radius: 2rem;
+    border: 1px solid transparent;
+    transition: var(--transition);
+}
+
+.exp__image{
+    display: flex;
+    gap: 1rem;
+    margin-bottom: 1rem;
+}
+
+.exp__image > img{
+    border-radius: round;
+    width: 15%;
+    max-height: 5%;
+    margin-left: 7rem;
+}
+
+.exp__position{
+    display: flex;
+    gap: 1.7rem;
+    margin-bottom: 1rem;
+    background: var(--color-primary);
+    border: 1px solid transparent;
+    transition: var(--transition);
+}
+.exp__position > h3 , h6 {
+    background: var(--color-primary-variant);
+        padding: 0.5rem;
+        border-radius: 0.8rem;
+        border: 1px solid transparent;
+        transition: var(--transition);
+}

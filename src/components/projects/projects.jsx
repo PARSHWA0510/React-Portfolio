@@ -13,24 +13,24 @@ const data = [
     image: img1,
     title: 'Little Ice Cremary',
     description: 'php project',
-    github: 'https://github.com/PARSHWA0510',
-    demo:'drive link'    
+    github: 'https://github.com/PARSHWA0510/ICTWIIb_Project_CE061_CE086_CE029',
+    demo:'https://drive.google.com/file/d/15roPspbxNpIfFm9ksBH1YzZW1ygQ-Bqy/view?usp=sharing'    
   },
   {
     id: 2,
     image: img2,
     title: 'Fighting game',
-    description: 'javascript project',
-    github: 'https://github.com/PARSHWA0510',
-    demo:'drive link'    
+    description: 'HTML, CSS & javascript  project',
+    github: 'https://github.com/PARSHWA0510/WDW_Project_CE061_CE125_CE145',
+    demo:'https://drive.google.com/file/d/1xSPiw9lu-S71O3vJa2j3xs-hdeC6ntPK/view?usp=sharing'    
   },
   {
     id: 3,
     image: img3,
     title: 'Books Bob',
     description: 'java project',
-    github: 'https://github.com/PARSHWA0510',
-    demo:'drive link'    
+    github: 'https://github.com/PARSHWA0510/Books-Bob/tree/master',
+    demo:'#'    
   },
   {
     id: 4,

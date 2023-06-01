@@ -1,6 +1,6 @@
 import React from 'react'
 import './about.css'
-import ME from '../../assests/IMG_1226-1.JPG' 
+import ME from '../../assests/IMG_20211225_153744_Bokeh.jpg' 
 import { TbAwardFilled } from 'react-icons/tb'
 import { FiUsers } from 'react-icons/fi'
 import { VscFolderLibrary } from 'react-icons/vsc'  

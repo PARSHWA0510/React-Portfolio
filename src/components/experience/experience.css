@@ -29,11 +29,22 @@
     display: flex;
     gap: 1.7rem;
     margin-bottom: 1rem;
-    background: var(--color-primary);
+    /* background: var(--color-primary); */
     border: 1px solid transparent;
     transition: var(--transition);
 }
-.exp__position > h3 , h6 {
+.exp__position > h4 {
+    background: var(--color-primary-variant);
+        padding: 0.5rem;
+        border-radius: 0.8rem;
+        border: 1px solid transparent;
+        transition: var(--transition);
+}
+
+.exp__position>h6 {
+    text-align: center;
+    margin-top: 1rem;
+    margin-left: 1rem;
     background: var(--color-primary-variant);
         padding: 0.5rem;
         border-radius: 0.8rem;
